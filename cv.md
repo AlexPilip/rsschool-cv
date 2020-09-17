@@ -25,3 +25,24 @@ My goal is to successfully complete the courses and get a job as a front-end dev
 * Knowledge in cross-browser and adaptive layout;
 * Photoshop;
 * Figma;
+
+**Code examples:**
+
+* https://github.com/AlexPilip/everad_test
+* https://github.com/AlexPilip/mavic
+
+**Education:**
+
+* 2019 - Front-end developer(Java Script) in Infopulse Univer;
+* 2019 - FrontEnd/JavaScript Development online courses in Epam;
+* 2018 - Front-end developer(Html+Css) in Infopulse Univer;
+* 2018 - Web-design in Infopulse Univer;
+* 2019 - Lingoda language Marathon. English language courses;
+* 2018 - Corporate English courses.
+* 2002 - 2008 – Zhytomyr State University, faculty: mathematics-informatics
+
+**English:**
+My English level is B1.
+I study English constantly, as it is necessary.
+* 2019 - Lingoda language Marathon. English language courses;
+* 2018 - Corporate English courses.
